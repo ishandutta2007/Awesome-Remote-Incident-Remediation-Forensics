@@ -1,11 +1,25 @@
-# Awesome Remote Incident Remediation & Forensics (DFIR)
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics?style=social)](https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<img src="./assets/banner.svg" alt="Awesome Remote Incident Remediation and Forensics Banner" width="100%" />
 
-A curated catalog of enterprise SaaS platforms and production-grade open-source tools for **remote incident remediation, digital forensics, live endpoint response, and enterprise DFIR (Digital Forensics and Incident Response)**.
+# 🛡️ Awesome Remote Incident Remediation & Forensics (DFIR)
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discodd" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?laeel=Follow" /></a>
+</p>
+
+<p align="center">
+  <b>A curated catalog of enterprise SaaS platforms and production-grade open-source tools for remote incident remediation, digital forensics, live endpoint response, and enterprise DFIR (Digital Forensics and Incident Response).</b>
+</p>
+
+</div>
+
+---
 
 These tools empower Security Operations Center (SOC) teams, incident responders, and forensic investigators to remotely inspect compromised endpoints, collect volatile forensic artifacts (disk, RAM, MFT, event logs), execute live response containment actions, and neutralize active cyber threats across distributed fleets without physical handling or disruptive reimaging.
 
@@ -13,16 +27,18 @@ These tools empower Security Operations Center (SOC) teams, incident responders,
 
 ## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Enterprise Platforms](#saas--hosted-enterprise-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Differences](#key-architectural-differences)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Enterprise Platforms](#️-saas--hosted-enterprise-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Key Architectural Differences](#️-key-architectural-differences)
+- [💖 Support](#-support)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
+- [⭐ Star History](#-star-history)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global Incident Response (IR) and Digital Forensics market is valued between **$40B and $50B in 2026** (with IR services & platforms accounting for ~$40B–$45B and specialized digital forensics software accounting for ~$12B–$15B), expanding rapidly at an estimated **12% to 18% CAGR** toward **$87B+ by 2030**. 
 
@@ -30,7 +46,7 @@ The sector exhibits **moderate to high consolidation in enterprise live response
 
 ---
 
-## SaaS & Hosted Enterprise Platforms
+## ☁️ SaaS & Hosted Enterprise Platforms
 
 Enterprise-grade cloud platforms offering live terminal response, remote telemetry collection, and fleet-wide threat remediation. Sorted by company size (valuation / annual revenue descending).
 
@@ -47,7 +63,7 @@ Enterprise-grade cloud platforms offering live terminal response, remote telemet
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Leading open-source forensic engines, live response platforms, and memory/disk artifact analysis frameworks. Sorted by GitHub star count descending.
 
@@ -71,7 +87,7 @@ Leading open-source forensic engines, live response platforms, and memory/disk a
 
 ---
 
-## Key Architectural Differences
+## 🏗️ Key Architectural Differences
 
 1. **Commercial EDR/XDR vs. Specialized DFIR Engines:**
    - **Commercial Suites (CrowdStrike, Tanium, Microsoft Defender, SentinelOne):** Provide seamless real-time telemetry, managed cloud backends, continuous behavioural detection, and one-click quarantine/remediation.
@@ -85,7 +101,18 @@ Leading open-source forensic engines, live response platforms, and memory/disk a
 
 ---
 
-## How to Contribute
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this directory valuable for your incident response operations, security engineering, or DFIR investigations:
+
+- ⭐ **Star this repository** on GitHub to help other cybersecurity practitioners discover it.
+- 🍴 **Fork the repo** to benchmark and customize your team's live response runbooks.
+- 📢 **Share** with your SecOps, DFIR, and Blue Team colleagues on Discord, LinkedIn, and Twitter/X.
+- ☕ **Support continuous maintenance**: You can sponsor or buy a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
 
 Contributions, tool suggestions, and documentation refinements are very welcome!
 
@@ -97,8 +124,14 @@ Contributions, tool suggestions, and documentation refinements are very welcome!
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This repository is a community-curated technical directory maintained for educational, investigative, and architectural evaluation purposes.
 - Remote remediation commands (`rm`, process termination, registry modification, network quarantine) carry inherent risks to production workloads. Always test forensic scripts in sandbox environments prior to fleet deployment.
 - Verify software license terms before commercial deployment (e.g., AGPL-3.0, GPL-3.0, Apache-2.0). All product trademarks and logos belong to their respective owners.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics&type=date&legend=top-left)
