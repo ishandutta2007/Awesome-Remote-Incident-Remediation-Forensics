@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discodd" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?laeel=Follow" /></a>
@@ -65,9 +65,9 @@ Enterprise-grade cloud platforms offering live terminal response, remote telemet
 
 ## 💻 Open-Source GitHub Projects
 
-Leading open-source forensic engines, live response platforms, and memory/disk artifact analysis frameworks. Sorted by GitHub star count descending.
+Leading open-source forensic engines, live response platforms, and memory/disk artifact analysis frameworks. Sorted by GitHub Stars_Count descending.
 
-| Project | Stars | Focus & Core Architecture | License |
+| Project | GitHub_Stars | Focus & Core Architecture | License |
 | :--- | :--- | :--- | :--- |
 | **[osquery](https://github.com/osquery/osquery)** | [![Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) | SQL-powered operating system instrumentation, monitoring, and live forensic inspection. Exposes low-level OS telemetry (processes, loaded kernel modules, active sockets, open files) as high-performance relational database tables queried via standard SQL. | Apache-2.0 |
 | **[Wazuh](https://github.com/wazuh/wazuh)** | [![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) | Open-source enterprise XDR and SIEM agent capable of live threat detection, file integrity monitoring (FIM), vulnerability assessment, and active automated response (running custom scripts, terminating rogue processes, and firewall IP blocking). | GPL-2.0 |
@@ -119,7 +119,7 @@ Contributions, tool suggestions, and documentation refinements are very welcome!
 1. **Fork** this repository.
 2. Create a feature branch: `git checkout -b feature/add-new-tool`.
 3. Add the project to the relevant section (`README.md`), keeping exact table schema and alphabetical/metric order.
-4. Verify all GitHub URLs, official product links, star badges, and factual pricing details.
+4. Verify all GitHub URLs, official product links, Stars_Badges, and factual pricing details.
 5. Commit and open a **Pull Request** with a concise description of your additions.
 
 ---
